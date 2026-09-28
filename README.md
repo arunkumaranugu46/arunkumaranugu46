@@ -384,6 +384,5 @@ I’m continuing to build both perspectives because strong security requires und
 
 ## 🔗 Connect
 
-**LinkedIn:** linkedin.com/in/arun-kumar-anugu-526367215
-
+**LinkedIn:** linkedin.com/in/arun-kumar-a-526367215
 **GitHub:** github.com/arunkumaranugu46
